@@ -1,0 +1,6 @@
+---
+# defaults file for clickhouse-role
+clickhouse_packages:
+  - clickhouse-common-static
+  - clickhouse-client
+  - clickhouse-server
